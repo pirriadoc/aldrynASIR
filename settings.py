@@ -7,6 +7,16 @@ INSTALLED_ADDONS = [
     'aldryn-sso',
     'aldryn-django-cms',
     'aldryn-devsync',
+    'aldryn-bootstrap3',
+    'aldryn-common',
+    'aldryn-disqus',
+    'aldryn-events',
+    'aldryn-faq',
+    'aldryn-forms',
+    'aldryn-jobs',
+    'aldryn-newsblog',
+    'aldryn-people',
+    'aldryn-style',
     # </INSTALLED_ADDONS>
 ]
 
