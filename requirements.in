@@ -2,7 +2,7 @@
 https://control.aldryn.com/api/v1/apps/serve/aldryn-addons/1.0.0/78253c99-f090-4d6d-8356-fd0474227855/aldryn-addons-1.0.0.tar.gz#egg=aldryn-addons==1.0.0
 https://control.aldryn.com/api/v1/apps/serve/aldryn-django/1.8.9.4/7e67c55f-68c7-4add-b798-12ebd25f3219/aldryn-django-1.8.9.4.tar.gz#egg=aldryn-django==1.8.9.4
 https://control.aldryn.com/api/v1/apps/serve/aldryn-sso/1.0.9/786f15c0-917f-4c9f-9433-f558e3f1271f/aldryn-sso-1.0.9.tar.gz#egg=aldryn-sso==1.0.9
-https://control.aldryn.com/api/v1/apps/serve/aldryn-django-cms/3.2.0.31/42c85b7d-0054-4c0e-9fed-1b61aab41065/aldryn-django-cms-3.2.0.31.tar.gz#egg=aldryn-django-cms==3.2.0.31
+https://control.aldryn.com/api/v1/apps/serve/aldryn-django-cms/3.2.1.8/21172949-807c-448e-94a6-bb3d92a8edad/aldryn-django-cms-3.2.1.8.tar.gz#egg=aldryn-django-cms==3.2.1.8
 https://control.aldryn.com/api/v1/apps/serve/aldryn-devsync/1.0.0/3ef3b0f0-2f98-4ca3-a4af-31d02b8ce6cb/aldryn-devsync-1.0.0.tar.gz#egg=aldryn-devsync==1.0.0
 https://control.aldryn.com/api/v1/apps/serve/aldryn-bootstrap3/1.0.7/bc846df6-5c9d-4e83-8363-5fb39c1d8b8f/aldryn-bootstrap3-1.0.7.tar.gz#egg=aldryn-bootstrap3==1.0.7
 https://control.aldryn.com/api/v1/apps/serve/aldryn-common/1.0.0/5b7dfbf2-577d-4e83-b902-13a82cd18220/aldryn-common-1.0.0.tar.gz#egg=aldryn-common==1.0.0
